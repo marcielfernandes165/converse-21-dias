@@ -2,6 +2,7 @@
   "buildCommand": "pnpm build",
   "devCommand": "pnpm dev",
   "installCommand": "pnpm install",
-  "framework": "vite",
-  "outputDirectory": "dist"
+  "framework": null,
+  "outputDirectory": "dist",
+  "nodeVersion": "22.x"
 }
