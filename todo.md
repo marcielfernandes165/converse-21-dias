@@ -62,3 +62,10 @@
 
 ## Dados dos 21 Dias
 - [x] Estrutura de dados dos 21 dias fornecida no documento
+
+
+## Fase 10: Alterações de Design e Conteúdo
+- [x] Adicionar logo no header
+- [x] Mudar subhead para "Seu guia de bolso para interações"
+- [x] Reorganizar cards em 2 seções (O que você faz errado / O que vai fazer)
+- [x] Remover "Script" e manter só "Ação Oposta"
